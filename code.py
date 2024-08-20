@@ -32,13 +32,20 @@ ultimo_geiser = time.time()
 
 # Mensaje a rotar
 mensaje = "MarEnMovimiento   "  # Espacios adicionales para darle margen de rotación
+lenmsg = len(mensaje)
 
 # Función para mostrar mensaje "MarEnMovimiento"
 def mostrar_mensaje():
-    for i in range(len(mensaje)):
+    lcd.clear()
+    for i in range(lenmsg + lcd_columns):
         lcd.clear()
-        lcd.print(mensaje[i:i+16])
-        time.sleep(0.2)  # Tiempo de espera para el efecto de desplazamiento
+        # Determina el índice inicial de la subcadena y la longitud visible
+        inicio = i % lenmsg
+        if inicio + lcd_columns <= lenmsg:
+            lcd.print(mensaje[inicio:inicio + lcd_columns])
+        else:
+            lcd.print(mensaje[inicio:] + mensaje[:lcd_columns - (lenmsg - inicio)])
+        time.sleep(0.3)  # Ajusta la velocidad del desplazamiento
 
 # Función para mostrar los datos del géiser y la frecuencia en la pantalla LCD
 def mostrar_datos():
