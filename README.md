@@ -47,6 +47,10 @@ Este proyecto consiste en un generador de energía que aprovecha el movimiento d
 
 El dispositivo se activa con el impacto del agua disparada por el geiser. El motor genera electricidad que es convertida en corriente continua por el puente rectificador, alimentando así los LEDs. La frecuencia con la que se activa el dispositivo depende del movimiento del agua.
 
+## **Pruebas**
+Drive de las evidencia de pruebas: https://drive.google.com/drive/folders/1p6oiQmE6wtrTuFcZD503JOJJFgEpMvDa
+
+
 ## **Posibles Mejoras y Extensiones**
 
 - **Implementación de un Joystick:** Para controlar la apertura de la entrada de agua, optimizando la eficiencia del sistema.
