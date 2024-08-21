@@ -5,7 +5,7 @@ Proyecto para CENFOTEC por Michelle Gutierrez, Rohi Prendas y Jeaustin  Obando
 
 ## **Descripción**
 
-Este proyecto consiste en un generador de energía que aprovecha el movimiento de las olas atravez de los geiser para producir electricidad. El dispositivo utiliza uel movimiento de un cilindro y un sistema de engranajes para convertir la energía cinética de las olas en energía eléctrica. Un puente rectificador convierte la corriente alterna generada por el motor en corriente continua para alimentar LEDs u otros pequeños dispositivos electrónicos.
+Este proyecto consiste en un generador de energía que aprovecha el movimiento de las olas atravez de los geiser para producir electricidad. El dispositivo utiliza el movimiento de un cilindro y un sistema de engranajes para convertir la energía cinética de las olas en energía eléctrica. Un puente rectificador convierte la corriente alterna generada por el motor en corriente continua para alimentar LEDs u otros pequeños dispositivos electrónicos.
 
 ## **Características del Proyecto**
 
@@ -23,7 +23,7 @@ Este proyecto consiste en un generador de energía que aprovecha el movimiento d
 
 ## **Especificaciones Técnicas**
 
-- **Cilindro:** agregar
+- **Cilindro:** Crea el movimiento del engranaje que es el que provee energia.
 - **Frecuencia de Activación:** Calculada en función del número de subidas y el tiempo.
 - **Materiales Resilientes:** Se sugiere el uso de materiales resistentes a la corrosión debido al ambiente marino.
 
@@ -32,12 +32,12 @@ Este proyecto consiste en un generador de energía que aprovecha el movimiento d
 1. **Imprimir las Piezas en 3D:**
    - Cilindro con forma de tornillo.
    - Engranajes.
+   - Carcasa para mantener los componentes
    
 2. **Montaje del Sistema:**
    - Conectar el motor a los engranajes.
    - Conectar el puente rectificador al motor.
    - Colocar el capacitor y los LEDs en paralelo con la salida del puente rectificador.
-   - agragar más6646466516486
 
 3. **Instalación del Dispositivo en el Agua:**
    - Asegúrate de que el dispositivo esté bien sellado para evitar daños por el agua.
