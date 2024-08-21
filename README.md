@@ -64,4 +64,9 @@ Este proyecto demuestra cómo se puede aprovechar la energía del movimiento del
 - Jeaustin  Obando
   
 ## **Licencia**
-agregar
+Al desarrollar y utilizar este proyecto se aceptaron los terminos y condiciones de la universidad CENFOTEC, y además se establecen los siguientes puntos:
+
+- Uso Libre: Puede usar, copiar, modificar y distribuir el proyecto con cualquier propósito, siempre que se respeten los términos de la licencia.
+- Distribución: Si distribuye copias o modificaciones del proyecto, debe incluir una copia de esta licencia.
+- Limitación de Responsabilidad: Este proyecto se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita, incluyendo pero no limitándose a garantías de comerciabilidad, idoneidad para un propósito particular y no infracción.
+- Citación: Si utiliza este proyecto en su investigación o trabajo, se recomienda citar al autor y el proyecto como fuente.
