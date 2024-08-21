@@ -1,1 +1,34 @@
-Se mostraran los cambios y avances que tomó el proyecto en base a la propuesta inicial y sus resultados.
+# Mar en Movimiento: Cambios y Avances del Prototipo
+
+## Primer Prototipo
+
+Este es el primer prototipo presentado de manera individual en una feria de CENFOTEC por uno de los integrantes del equipo.
+
+![Primer Prototipo] Imgen nombrada como "Primer intento de prototipo"
+
+### Video de la Presentación Inicial
+
+Puedes ver una explicación sencilla y resumida de la propuesta inicial en el siguiente video:  
+[**Ver Video**](https://drive.google.com/file/d/1RadZvE8iT5p2aOYwt8qObRlqLozROdxz/view?usp=drivesdk )
+
+### Detalles del Primer Prototipo
+
+- **Funcionalidad Inicial:**  
+  Como se observa en el video, este prototipo funcionaba con el accionamiento manual, pero no se probó en agua hasta ahora.
+
+- **Problemas Detectados:**  
+  Durante las pruebas en agua, se presentaron problemas de funcionamiento. Se identificó que la falta de una fuente de agua más fuerte podría haber influido en el rendimiento del prototipo.
+
+## Modificaciones en el Diseño
+
+Dado que el primer modelo presentó problemas en su prueba de funcionamiento, se optó por modificar el diseño:
+
+- **Cambio en el Movimiento:**  
+  El mecanismo de generación de energía se cambió de un movimiento horizontal a uno vertical para mejorar la eficiencia.
+
+- **Mejoras en la Zona de Prueba:**  
+  Se consideró que una mejor fuente de agua que impactara con más fuerza en el dispositivo podría haber hecho funcionar el primer modelo, por lo que se tomó esto en cuenta en las modificaciones.
+
+## Estado Actual del Prototipo
+
+El proyecto sigue en desarrollo con el objetivo de optimizar el diseño para pruebas futuras en condiciones reales. La siguiente fase incluirá pruebas en agua con el nuevo diseño para evaluar su capacidad de generar energía de manera eficiente.
